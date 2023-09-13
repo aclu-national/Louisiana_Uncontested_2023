@@ -1,0 +1,283 @@
+Election,OfficeTitle,OfficeTitleDescription,NumberToBeElected,BallotFirstName,BallotLastName,BallotSuffix,Address,City,State,Zip,Address Mismatch,Phone,Email Address,Party,Race,Gender,Filed Date,Outcome 
+10/14/23,State Senator,1st Senatorial District,1,'Ray',Garofalo,,2912 S. Lake Blvd.,Violet,LA,70092,Yes,(504) 279-1124,ray@raygarofalo.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,1st Senatorial District,1,Robert 'Bob',Owen,,207 Provosty Dr.,Slidell,LA,70461,No,(985) 768-0352,hse076@legis.la.gov,Republican,White,Male,8/9/23, 
+10/14/23,State Senator,2nd Senatorial District,1,'Chris',Delpit,,P.O. Box 1372,Gonzales,LA,70707,No,(225) 413-1671,heurlindel@gmail.com,Republican,Black,Male,8/8/23, 
+10/14/23,State Senator,2nd Senatorial District,1,Edward 'Ed',Price,,2034 S. Robert Ave.,Gonzales,LA,70737,No,(225) 603-1979,ejprice53@gmail.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Senator,3rd Senatorial District,1,Joseph 'Joe',Bouie,,4701 Franklin Ave.,New Orleans,LA,70122,No,(504) 286-1033,bouiej@legis.la.gov,Democrat,Black,Male,8/8/23,Unopposed 
+10/14/23,State Senator,4th Senatorial District,1,'Jimmy',Harris,,5201 Sandhurst Dr.,New Orleans,LA,70126,No,(504) 555-5555,jimmy4nola@gmail.com,Democrat,Black,Male,8/8/23,Unopposed 
+10/14/23,State Senator,5th Senatorial District,1,Royce,Duplessis,,P.O. Box 50111,New Olreans,LA,70150,No,(504) 568-2740,info@royceduplessis.com,Democrat,Black,Male,8/8/23,Unopposed 
+10/14/23,State Senator,6th Senatorial District,1,'Rick',Edmonds,,17468 Beckfield Ave.,Baton Rouge,LA,70817,No,(225) 678-3837,rickedmonds@me.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,6th Senatorial District,1,Barry,Ivey,,P.O. Box 78010,Baton Rouge,LA,70837,No,(225) 262-9350,senate@barryivey.com,Republican,White,Male,8/9/23, 
+10/14/23,State Senator,7th Senatorial District,1,Gary,Carter,Jr.,P.O. Box 741471,New Orleans,LA,70174,No,(504) 232-8627,gcarter@carterandfirm.com,Democrat,Black,Male,8/8/23,Unopposed 
+10/14/23,State Senator,8th Senatorial District,1,Patrick,Connick,,720 Fos Ave.,Harvey,LA,70058,No,(504) 347-4535,connicklaw@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,8th Senatorial District,1,Timothy,Kerner,Jr.,1156 Jean Lafitte Blvd.,Lafitte,LA,70067,No,(504) 756-3714,timothykernerjr@gmail.com,Republican,White,Male,8/10/23, 
+10/14/23,State Senator,9th Senatorial District,1,J. Cameron,Henry,Jr.,309 E. Livingston Pl.,Metairie,LA,70005,No,(504) 416-2398,cameron@jcameronhenry.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,9th Senatorial District,1,Sheree,Kerner,,12 Azalea Ct.,Metairie,LA,70005,No,(504) 812-9076,sheree@baileylink.net,Republican,White,Female,8/10/23,Withdrew 
+10/14/23,State Senator,9th Senatorial District,1,Mary Anne,Mushatt,,P.O. Box 15684,New Orleans,LA,70175,No,(504) 867-9071,standwithmaryanne@gmail.com,Democrat,White,Female,8/8/23, 
+10/14/23,State Senator,10th Senatorial District,1,R. A. 'Skip',Galan,,P.O. Box 27,St. Rose,LA,70087,No,(504) 756-1674,raoulgalan@ymail.com,No Party,White,Male,8/9/23,Other/Disq 
+10/14/23,State Senator,10th Senatorial District,1,Kirk,Talbot,,10100 Hyde Pl.,River Ridge,LA,70123,No,(504) 737-9598,mkirktalbot@aol.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Senator,11th Senatorial District,1,Patrick,McMath,,"404 E. Gibson St., Ste. 2",Covington,LA,70433,Yes,(985) 900-6278,patrickmooremcmath@gmail.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Senator,12th Senatorial District,1,Brittany 'Britt',Gondolfi,,18177 Dunnington Acres Dr.,Hammond,LA,70401,No,(985) 807-1098,info@brittforlouisiana.com,Democrat,Other,Female,8/8/23, 
+10/14/23,State Senator,12th Senatorial District,1,Gloria W.,Kates,,1012 Poplas St.,Bogalusa,LA,70427,No,(985) 241-1819,wilkat@mybluelight.com,Democrat,Black,Female,8/10/23, 
+10/14/23,State Senator,12th Senatorial District,1,'Beth',Mizell,,19208 Sam Varnado Rd.,Franklinton,LA,70438,No,(985) 515-0927,bethsmizell@hotmail.com,Republican,White,Female,8/8/23, 
+10/14/23,State Senator,13th Senatorial District,1,Valarie,Hodges,,33885 Cypress Bluff Dr.,Denham Springs,LA,70706,No,(225) 791-2199,vhodges@legis.la.gov,Republican,White,Female,8/8/23, 
+10/14/23,State Senator,13th Senatorial District,1,'Buddy',Mincey,Jr.,10983 LA Hwy. 1033,Denham Springs,LA,70726,No,(225) 667-3811,buddymincey3@gmail.com,Republican,White,Male,8/10/23, 
+10/14/23,State Senator,14th Senatorial District,1,Cleo,Fields,,2147 Government St.,Baton Rouge,LA,70806,No,(225) 343-5377,cleofields@fieldslawfirm.net,Democrat,Black,Male,8/8/23,Unopposed 
+10/14/23,State Senator,15th Senatorial District,1,Regina,Barrow,,4811 Harding Blvd.,Baton Rouge,LA,70811,No,(225) 359-9586,reginabarrow@att.net,Democrat,Black,Female,8/8/23,Unopposed 
+10/14/23,State Senator,16th Senatorial District,1,Franklin,Foil,,"412 N. Fourth St., Ste. 240",Baton Rouge,LA,70802,No,(225) 382-3264,ffoil@foillaw.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Senator,17th Senatorial District,1,Caleb Seth,Kleinpeter,,21450 Hwy. 77,Grosse Tete,LA,70740,Yes,(225) 223-5322,sen17@legis.la.gov,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Senator,17th Senatorial District,1,Peter,Williams,,15864 LA Hwy. 970,Lettsworth,LA,70753,No,(318) 359-5333,ap0trees2013@yahoo.com,Democrat,Black,Male,8/10/23,Other/Disq 
+10/14/23,State Senator,18th Senatorial District,1,Eddie J.,Lambert,,18436 Greenbriar Ave.,Prairieville,LA,70769,No,(225) 715-4974,eddiel@eatel.net,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Senator,19th Senatorial District,1,Marilyn,Bellock,,251 Riverview Dr.,St. Rose,LA,70087,No,(504) 610-9291,marilynbellock@yahoo.com,Democrat,Black,Female,8/10/23, 
+10/14/23,State Senator,19th Senatorial District,1,Gregory A.,Miller,,3784 San Francisco Dr.,Destrehan,LA,70047,No,(985) 764-9991,norcogreg@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,20th Senatorial District,1,'Dave',Carskadon,,157 Gus Savoie Ave.,Larose,LA,70373,No,(985) 258-4129,davidcarskadon@yahoo.com,Republican,White,Male,8/9/23, 
+10/14/23,State Senator,20th Senatorial District,1,Michael 'Big Mike',Fesi,,P.O. Box 4034,Houma,LA,70361,No,(985) 870-5677,info@bigmikefesi.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,21st Senatorial District,1,Robert,Allain,,4502 Irish Bend Rd.,Franklin,LA,70538,No,(337) 276-5503,rallain3@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,21st Senatorial District,1,Henry 'Bo',LaGrange,,2003 Trina St.,Patterson,LA,70392,No,(985) 518-1261,info@boforstatesenate.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,21st Senatorial District,1,Stephen,Swiber,,6371 S. Bayou Black Dr.,Gibson,LA,70356,No,(985) 312-1002,stephen.p.swiber@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,22nd Senatorial District,1,Hugh,Andre,,4304 Daspit Rd.,New Iberia,LA,70563,No,(337) 422-9974,hmcfarms2020@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,22nd Senatorial District,1,Dexter T.,Lathan,,611 1/2 S. Weeks St.,New Iberia,LA,70560,No,(225) 428-6833,trakaldexter30@icloud.com,Independent,Black,Male,8/8/23, 
+10/14/23,State Senator,22nd Senatorial District,1,Blake,Miguez,,107 Hwy. 90 West,New Iberia,LA,70560,No,(337) 465-2783,blake.miguez@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,22nd Senatorial District,1,Melinda Narcisse 'Mel',Mitchell,,P.O. Box 843,St. Martinville,LA,70582,No,(337) 256-1736,melindamitchell24@yahoo.com,Democrat,Black,Female,8/9/23, 
+10/14/23,State Senator,22nd Senatorial District,1,Phanat 'PX',Xanamane,,1505 S. Hopkins St.,New Iberia,LA,70560,No,(337) 378-9469,phanatx@gmail.com,Democrat,Asian,Male,8/8/23, 
+10/14/23,State Senator,23rd Senatorial District,1,Jean-Paul,Coussan,,113 Bernice Ave.,Lafayette,LA,70503,No,(337) 984-9480,jp@jeanpaulcoussan.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Senator,24th Senatorial District,1,Gerald,Boudreaux,,P.O. Box 91245,Lafayette,LA,70509,No,(337) 278-0096,boudreauxg@legis.la.gov,Democrat,Black,Male,8/9/23,Unopposed 
+10/14/23,State Senator,25th Senatorial District,1,Mark,Abraham,,4105 Magnolia Ridge Dr.,Lake Charles,LA,70605,No,(337) 474-0487,mabraham@bigeasyfoods.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,25th Senatorial District,1,Joshua 'Josh',Lewis,,5674 W. Pinewood Dr.,Lake Charles,LA,70607,No,(337) 802-8834,,Democrat,Black,Male,8/9/23, 
+10/14/23,State Senator,26th Senatorial District,1,'Bob',Hensgens,,305 Wilkinson St.,Gueydan,LA,70542,No,(337) 250-3752,bobhensgens@gmail.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Senator,27th Senatorial District,1,Jeremy,Stine,,P.O. Box 4494,Lake Charles,LA,70606,No,(337) 491-2016,sen27@legis.la.gov,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Senator,28th Senatorial District,1,Heather,Cloud,,P.O. Box 259,Turkey Creek,LA,70585,No,(337) 224-6604,heathercloudforla@gmail.com,Republican,White,Female,8/8/23,Unopposed 
+10/14/23,State Senator,29th Senatorial District,1,Wendell Jay,Luneau,,5070 Plantation Rd.,Alexandria,LA,71303,No,(318) 767-1161,Jay@Luneaubecklaw.com,Democrat,White,Male,8/8/23,Unopposed 
+10/14/23,State Senator,30th Senatorial District,1,'Mike',Reese,,151 Oak St.,Leesville,LA,71446,No,(337) 509-7140,mike.reese@reeseforlouisiana.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Senator,31st Senatorial District,1,'Mike',McConathy,,268 Taylor Rd.,Natchitoches,LA,71457,No,(318) 792-1541,,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,31st Senatorial District,1,Alan,Seabaugh,,9727 Norris Ferry Rd.,Shreveport,LA,71106,No,(318) 200-0160,alan@alanseabaugh.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,32nd Senatorial District,1,Glen D.,Womack,,P.O. Box 68,Harrisonburg,LA,71340,No,(318) 744-0005,glen@jcpmgmt.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Senator,33rd Senatorial District,1,Stewart,Cathey,Jr.,404 Turtle Crossing,Monroe,LA,71203,No,(318) 512-2887,stewartcatheyjr@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,33rd Senatorial District,1,Harvey 'Ned',White,,538 Seals Pl.,Monroe,LA,71203,No,(318) 366-4740,nedwhite06@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,34th Senatorial District,1,Katrina,Jackson,,4106 Desiard St.,Monroe,LA,71203,Yes,(318) 537-9759,krjcampaign@gmail.com,Democrat,Black,Female,8/8/23, 
+10/14/23,State Senator,34th Senatorial District,1,James 'Joeboy',Smith,,P.O. Box 1200,Rayville,LA,71269,No,(318) 537-0149,revjamessmith79@gmail.com,Republican,Black,Male,8/8/23, 
+10/14/23,State Senator,35th Senatorial District,1,'Jay',Morris,,2705 Oak St.,Monroe,LA,71201,No,(318) 237-3215,jay@jaymorris.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Senator,36th Senatorial District,1,'Adam',Bass,,1828 Old Minden Rd.,Bossier City,LA,71111,No,(318) 747-0683,contact@adambassforsenate.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,36th Senatorial District,1,Robert,Mills,,609 Enchanted Ln.,Bossier City,LA,71111,No,(318) 946-3080,robert@robertmillsforsenate.com,Republican,White,Male,8/9/23, 
+10/14/23,State Senator,37th Senatorial District,1,Randy,Bush,,P.O. Box 114,Ponchatoula,LA,70454,Yes,(985) 974-8351,randybush13@yahoo.com,Republican,White,Male,8/10/23, 
+10/14/23,State Senator,37th Senatorial District,1,Ivan M.,Scioneaux,Jr.,2009 Corbin Rd.,Hammond,LA,70403,No,(225) 483-1021,ivanlasenate@gmail.com,Independent,Black,Male,8/9/23, 
+10/14/23,State Senator,37th Senatorial District,1,'Bill',Wheat,,40316 Happywoods Rd.,Hammond,LA,70403,No,(985) 507-1710,drbillwheatstatesenate@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,38th Senatorial District,1,Chase,Jennings,,6431 El Rancho Rd.,Shreveport,LA,71129,No,(318) 464-7579,jenningsforsenate38@gmail.com,Republican,White,Male,8/10/23, 
+10/14/23,State Senator,38th Senatorial District,1,John,Milkovich,,11570 Timber Ridge Dr.,Keithville,LA,71047,No,(318) 425-1957,johnmilkovichforsenate@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Senator,38th Senatorial District,1,Thomas A.,Pressly,,634 Oneonta St.,Shreveport,LA,71106,No,(318) 459-8402,campaign@thomaspressly.com,Republican,White,Male,8/9/23, 
+10/14/23,State Senator,39th Senatorial District,1,Cedric B.,Glover,,6409 Long Timbers Dr.,Shreveport,LA,71119,No,(318) 780-2977,cedricbglover@yahoo.com,Democrat,Black,Male,8/9/23, 
+10/14/23,State Senator,39th Senatorial District,1,Samuel L. 'Sam',Jenkins,Jr.,2419 Kings Hwy.,Shreveport,LA,71103,No,(318) 636-4266,info@votesamjenkins.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Senator,39th Senatorial District,1,Barbara M.,Norton,,3336 Pines Rd.,Shreveport,LA,71119,No,(318) 573-8026,Barbra.norton@yahoo.com,Democrat,Black,Female,8/8/23, 
+10/14/23,State Senator,39th Senatorial District,1,James F. 'Jim',Slagle,,P.O. Box 500,Vivian,LA,71082,No,(318) 375-3536,ksjsrs111@aol.com,Republican,White,Male,8/10/23, 
+10/14/23,State Representative,1st Representative District,1,Randall,Liles,,6270 Sand Hill Ave.,Shreveport,LA,71107,No,(318) 208-4275,randall@arklatexsigns.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,1st Representative District,1,Danny,McCormick,,P.O. Box 26,Oil City,LA,71061,No,(318) 995-8040,mccormickforoffice@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,2nd Representative District,1,Steven,Jackson,,P.O. Box 2113,Shreveport,LA,71166,No,(318) 688-9500,steventuba@aol.com,Democrat,Black,Male,8/10/23, 
+10/14/23,State Representative,2nd Representative District,1,Terence,Vinson,,P.O. Box 36903,Shreveport,LA,71133,No,(318) 595-1015,vinsonforstaterep@gmail.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,3rd Representative District,1,Tammy,Phelps,,622 Hoover Dr.,Shreveport,LA,71106,No,(318) 862-3080,hse003@legis.la.gov,Democrat,Black,Female,8/8/23,Unopposed 
+10/14/23,State Representative,4th Representative District,1,Jasmine R.,Green,,P.O. Box 7412,Shreveport,LA,71137,No,(318) 519-5405,jasmine4edu@yahoo.com,Democrat,Black,Female,8/8/23, 
+10/14/23,State Representative,4th Representative District,1,Lyndon B.,Johnson,,P.O. Box 29495,Shreveport,LA,71149,No,(318) 401-8669,lbj4larep@gmail.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,4th Representative District,1,Joy,Walters,,1807 Hunter Cir.,Shreveport,LA,71119,Yes,(318) 773-9469,joywalterscampaign@gmail.com,Democrat,Black,Female,8/10/23, 
+10/14/23,State Representative,5th Representative District,1,Dennis,Bamburg,Jr.,210 Eagle Ridge Dr.,Haughton,LA,71037,Yes,(318) 455-0536,dennisbamburg@allstate.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,6th Representative District,1,Robert 'Bobby',Darrow,,"300 Pierremont Rd., Unit 11",Shreveport,LA,71106,Yes,(318) 458-2700,rkdarrow58@gmail.com,Democrat,White,Male,8/9/23, 
+10/14/23,State Representative,6th Representative District,1,Evan,McMichael,,"4220 Reily Ln., Apt. C206",Shreveport,LA,71105,No,(318) 929-4848,evanforla@gmail.com,No Party,White,Male,8/8/23, 
+10/14/23,State Representative,6th Representative District,1,Michael,Melerine,,"401 Market St., Ste. 1150",Shreveport,LA,71101,No,(318) 228-1925,contact@michaelmelerine.com,Republican,White,Male,8/9/23, 
+10/14/23,State Representative,7th Representative District,1,'Larry',Bagley,,1104 Dennis St.,Logansport,LA,71049,No,(318) 426-4730,larrybagleycampaign@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,7th Representative District,1,'Tim',Pruitt,,1011 Hall Rd.,Stonewall,LA,71078,No,(318) 344-3272,timpruittforla@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,8th Representative District,1,Raymond J.,Crews,,2467 Churchill Dr.,Bossier City,LA,71111,No,(318) 716-7532,crewsr@legis.la.gov,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,9th Representative District,1,'Dodie',Horton,,1864 Sparrow Rdg.,Haughton,LA,71037,No,(318) 987-6921,dodiehorton@gmail.com,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,9th Representative District,1,'Chris',Turner,,2244 Forest Hills Blvd.,Haughton,LA,71037,No,(318) 268-7530,christurnerladistrict9@gmail.com,Republican,White,Male,8/9/23, 
+10/14/23,State Representative,10th Representative District,1,Wayne,McMahen,,1012 Janice Dr.,Springhill,LA,71075,No,(318) 578-0403,rwmdvm@gmail.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,11th Representative District,1,Deandre,Alexander,,404 Caroline Dr.,Arcadia,LA,71001,No,(318) 607-4556,deandrearcadiala@gmail.com,Democrat,Black,Male,8/8/23,Other/Disq 
+10/14/23,State Representative,11th Representative District,1,Ray,Ivory,Sr.,1667 Main St.,Gibsland,LA,71028,No,(318) 584-5598,rayivorysr@gmail.com,No Party,Black,Male,8/8/23,Other/Disq 
+10/14/23,State Representative,11th Representative District,1,Rashid 'Mon',Young,,3233 Dutchtown Rd.,Homer,LA,71040,No,(318) 202-9275,rashid_young@yahoo.com,Democrat,Black,Male,8/9/23,Unopposed 
+10/14/23,State Representative,12th Representative District,1,Christopher 'Chris',Turner,,296 Belle Point Dr.,Ruston,LA,71270,No,(318) 548-9442,turnerfor12@gmail.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,13th Representative District,1,Jack G.,McFarland,,150 Douglas Garrett Rd.,Winnfield,LA,71483,No,(318) 727-9696,jackgmcfarland@icloud.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,14th Representative District,1,Michael,Echols,,1800 Riverside Dr.,Monroe,LA,71201,No,(318) 366-7370,michaelcharlesechols@gmail.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,15th Representative District,1,Foy,Gadberry,,257 Sugarloaf Dr.,Calhoun,LA,71225,No,(318) 267-8181,fgadman@yahoo.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,15th Representative District,1,Randall 'Scotty',Robinson,,210 Petrus Cir.,West Monroe,LA,71291,No,(318) 235-0672,scottyrobinson86@yahoo.com,Republican,White,Male,8/10/23, 
+10/14/23,State Representative,16th Representative District,1,Adrian,Fisher,,P.O. Box 7563,Monroe,LA,71211,No,(318) 614-7644,afisher@legis.la.gov,Democrat,Black,Male,8/8/23,Unopposed 
+10/14/23,State Representative,17th Representative District,1,Patricia 'Pat',Moore,,2306 Ticheli Rd.,Monroe,LA,71202,No,(318) 235-3508,pmoore03@comcast.net,Democrat,Black,Female,8/8/23,Unopposed 
+10/14/23,State Representative,18th Representative District,1,Tammi,Fabre,,428 Pecan Ave.,New Roads,LA,70760,No,(225) 718-1654,tammifabre@yahoo.com,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,18th Representative District,1,Jeremy S.,LaCombe,,P.O. Box 370,Livonia,LA,70759,No,(225) 637-3803,Campaign@jeremylacombe.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,18th Representative District,1,Shanda,Paul,,P.O. Box 436,Port Allen,LA,70767,Yes,(225) 450-7388,shandapaul3@yahoo.com,Democrat,Black,Female,8/9/23, 
+10/14/23,State Representative,19th Representative District,1,'Norm',Davis,,1933 Waller Rd.,Epps,LA,71237,No,(318) 434-2050,normdavis2013@yahoo.com,Independent,White,Male,8/10/23, 
+10/14/23,State Representative,19th Representative District,1,Francis,Thompson,,P.O. Box 322,Delhi,LA,71232,Yes,(318) 878-9408,francisthompsoncampaign@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,20th Representative District,1,Kevin,Bates,,P.O. Box 1262,Winnsboro,LA,71295,No,(318) 341-2417,,Republican,White,Male,8/10/23, 
+10/14/23,State Representative,20th Representative District,1,Neil,Riser,,P.O. Box 117,Columbia,LA,71418,No,(318) 649-0977,risern@legis.la.gov,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,21st Representative District,1,James 'Jamie',Davis,Jr.,119 Lynwood Dr.,Ferriday,LA,71334,No,(318) 758-0198,jamiedavisforla@gmail.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,21st Representative District,1,C. Travis,Johnson,,P.O. Box 1342,Ferriday,LA,71334,No,(318) 243-9287,contact@ctravisjohnson.com,Democrat,Black,Male,8/9/23, 
+10/14/23,State Representative,21st Representative District,1,Clark,White,Jr.,170 Jan Rd.,Winnsboro,LA,71295,No,(318) 439-0811,jy-wht@yahoo.com,Democrat,Black,Male,8/10/23, 
+10/14/23,State Representative,22nd Representative District,1,'Gabe',Firment,,P.O. Box 670,Pollock,LA,71467,No,(318) 201-6769,gabe.firment@gmail.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,23rd Representative District,1,Bryan,Jefferson,,6408 Caldwell Dr.,New Orleans,LA,70122,No,(504) 258-2978,bjefferson@fljlawfirm.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,23rd Representative District,1,Shaun,Mena,,819 N. Rendon St.,New Orleans,LA,70119,No,(504) 430-5977,info@shaunmena.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,23rd Representative District,1,Pearl,Ricks,,"6221 S. Claiborne Ave., Ste. 622",New Orleans,LA,70125,Yes,(504) 994-8424,ricks@thepeopleandpearl.com,Democrat,Black,,8/9/23, 
+10/14/23,State Representative,23rd Representative District,1,Tammy M.,Savoie,,500 Turquoise St.,New Orleans,LA,70124,No,(504) 410-7232,info@tammysavoie.com,Democrat,White,Female,8/8/23, 
+10/14/23,State Representative,24th Representative District,1,Clarence,Beebe,,P.O. Box 292,Hornbeck,LA,71439,No,(318) 729-5045,csbeebe@outlook.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,24th Representative District,1,Rodney,Schamerhorn,,585 Ford Stewart Rd.,Leesville,LA,71446,No,(337) 208-5234,Rep.Schamerhorn@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,25th Representative District,1,Jason,Dewitt,,704 Blarney St.,Boyce,LA,71409,No,(318) 623-1890,terminatorpestcontrol@suddenlink.net,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,25th Representative District,1,Patricia 'Trish',Leleux,,2141 Coulee Crossing,Woodworth,LA,71485,No,(318) 266-7814,trish@trishleleux.com,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,26th Representative District,1,Sandra,Franklin,,2213 Olive St.,Alexandria,LA,71301,No,(318) 657-0414,sgvfranklin@aol.com,Democrat,Black,Female,8/8/23, 
+10/14/23,State Representative,26th Representative District,1,'Ed',Larvadain,III,P.O. Box 8501,Alexandria,LA,71306,Yes,(318) 484-9907,edlariii@bellsouth.net,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,26th Representative District,1,Reddex,Washington,,58 Bertie St.,Alexandria,LA,71301,No,(318) 730-6195,reddex1@gmail.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,27th Representative District,1,'Mike',Johnson,,4255 Stillmeadow Dr.,Pineville,LA,71360,No,(318) 787-9740,MikeJohnson@MikeforLouisiana.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,28th Representative District,1,Daryl,Deshotel,,3300 Main St.,Hessmer,LA,71341,No,(318) 447-2000,daryl@daryldeshotel.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,28th Representative District,1,Ramondo 'Ramram',Ramos,,714 Hwy. 3041,Bunkie,LA,71322,No,(318) 289-9069,ramondoramos1@aol.com,Democrat,Hispanic,Male,8/9/23, 
+10/14/23,State Representative,29th Representative District,1,Edmond,Jordan,,P.O. Box 490,Brusly,LA,70719,No,(225) 284-5888,ejordan@edmondjordan.com,Democrat,Black,Male,8/8/23,Unopposed 
+10/14/23,State Representative,30th Representative District,1,William 'BJ',Jones,,351 Jones Rd.,Leesville,LA,71446,No,(337) 238-9168,brobilljones007@gmail.com,Independent,White,Male,8/8/23, 
+10/14/23,State Representative,30th Representative District,1,Charles A.,Owen,,2105 Nolan Trc.,Leesville,LA,71446,No,(318) 780-1727,caodeploy@yahoo.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,31st Representative District,1,Jonathan,Goudeau,I,102 Keeneland Ln.,Lafayette,LA,70503,No,(337) 962-2818,gou9@cox.net,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,31st Representative District,1,Troy,Hebert,,100 Plainfield Cir.,Lafayette,LA,70503,No,(337) 298-7376,troy@hebertforlouisiana.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,32nd Representative District,1,Dewith,Carrier,,P.O. Box 663,Oberlin,LA,70655,No,(337) 207-4759,hse032@legis.la.gov,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,33rd Representative District,1,'Les',Farnum,,312 Oakley Dr.,Sulphur,LA,70663,No,(337) 304-6446,les.farnum@yahoo.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,34th Representative District,1,Wilford,Carter,Sr.,509 N. First  Ave.,Lake Charles,LA,70601,No,(337) 794-1105,wilfordcarterlawoffice@gmail.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,34th Representative District,1,Kevin D.,Guidry,,4045 W. Briarfield St.,Lake Charles,LA,70607,No,(337) 249-5715,michelleguidry4045@gmail.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,34th Representative District,1,Franklin D.,Lewis,Sr.,229 N. Enterprise Blvd.,Lake Charles,LA,70601,No,(337) 246-0165,lewis4staterep@gmail.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,35th Representative District,1,Brett,Geymann,,2615 Bushnell Rd.,Lake Charles,LA,70611,No,(337) 855-3133,hse035@legis.la.gov,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,36th Representative District,1,Phillip E.,Tarver,,4428 Ihles Rd.,Lake Charles,LA,70605,No,(337) 802-0287,,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,37th Representative District,1,Troy D.,Romero,,6059 Ava Ln.,Iowa,LA,70647,No,(337) 304-6304,troy@stsla.net,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,38th Representative District,1,Rhonda Leger,Butler,,1108 Earl Deville Rd.,Ville Platte,LA,70586,No,(337) 224-0491,candlerha@yahoo.com,Republican,White,Female,8/9/23,Unopposed 
+10/14/23,State Representative,38th Representative District,1,Todd,McKellar,,27 Science Hill Cemetery Rd.,Glenmora,LA,71433,No,(337) 842-7506,todd@toddmckellar.com,Republican,White,Male,8/8/23,Other/Disq 
+10/14/23,State Representative,39th Representative District,1,Julie,Emerson,,P.O. Box 1139,Carencro,LA,70520,No,(337) 886-5314,julie@julieemerson.org,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,39th Representative District,1,Mckinley,James,Jr.,P.O. Box 863,Carencro,LA,70520,Yes,(337) 520-5577,mjames@votejamesstaterep.com,Democrat,Black,Male,8/10/23, 
+10/14/23,State Representative,40th Representative District,1,Allen,Guillory,,P.O. Box 288,Lawtell,LA,70550,Yes,(337) 278-0873,allenguillory@hotmail.com,Democrat,Black,Male,8/9/23, 
+10/14/23,State Representative,40th Representative District,1,Dustin,Miller,,1565 S. Market St.,Opelousas,LA,70570,No,(337) 319-0639,millerdustin70@yahoo.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,41st Representative District,1,Phillip R.,DeVillier,,439 Hwy. 758,Eunice,LA,70535,No,(337) 546-0255,pdevil1@yahoo.Com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,42nd Representative District,1,Chance,Henry,,P.O. Box 400,Mermentau,LA,70556,No,(337) 789-5093,chance@chancehenry.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,42nd Representative District,1,Douglas J. 'Doug',LaCombe,,P.O. Box 184,Egan,LA,70531,No,(337) 207-0852,lacombedouglas@yahoo.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,43rd Representative District,1,'Josh',Carlson,,P.O. Box 81175,Lafayette,LA,70598,No,(337) 207-0645,josh@votecarlson.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,43rd Representative District,1,Ludwig,Gelobter,,1019 Kaliste Saloom Rd. #211,Lafayette,LA,70503,Yes,(504) 261-5811,lgelobter@hotmail.com,Democrat,White,Male,8/10/23, 
+10/14/23,State Representative,44th Representative District,1,Tehmi,Chassion,,109 Saturn Dr.,Lafayette,LA,70501,No,(337) 315-9234,tehmichassion@gmail.com,Democrat,Black,Male,8/10/23, 
+10/14/23,State Representative,44th Representative District,1,Patrick 'Pat',Lewis,,727 Louis Arceneaux Rd.,Lafayette,LA,70507,No,(337) 258-0966,pat@1-fb.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,44th Representative District,1,Ravis K.,Martinez,,P.O. Box 92384,Lafayette,LA,70509,Yes,(337) 366-3372,ravis@ravismartinez.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,45th Representative District,1,Jupiter,Leblanc,,"220 Doucet Rd., Apt. 163H",Lafayette,LA,70503,Yes,(504) 446-0237,jupiter4lafayette@outlook.com,No Party,Black,Female,8/8/23, 
+10/14/23,State Representative,45th Representative District,1,Paul 'Scott',LeBleu,,206 Mockingbird Ln.,Lafayette,LA,70506,No,(337) 258-7006,pslebleu@gmail.com,Democrat,White,Male,8/8/23, 
+10/14/23,State Representative,45th Representative District,1,Brach,Myers,,513 Beverly Dr.,Lafayette,LA,70503,No,(337) 258-5703,brach@brachmyers.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,46th Representative District,1,Chad M.,Boyer,,P.O. Box 94,Breaux Bridge,LA,70517,No,(337) 322-8203,cboyer1971@yahoo.com,Republican,White,Male,8/9/23,Unopposed 
+10/14/23,State Representative,47th Representative District,1,Ryan,Bourriaque,,121 Belle Savane Rd.,Lake Charles,LA,70607,No,(337) 905-2128,rbourriaque@legis.la.gov,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,48th Representative District,1,'Beau',Beaullieu,,4109 Walnut Dr.,New Iberia,LA,70563,No,(337) 258-8274,beau@beauforacadiana.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,48th Representative District,1,David,Levy,,210 Edgewater Dr.,New Iberia,LA,70563,No,(337) 781-9998,dlevy@petrotechnologies.com,Democrat,White,Male,8/10/23, 
+10/14/23,State Representative,49th Representative District,1,Sanders 'Sandy',Derise,,901 Broyles St.,Youngsville,LA,70592,No,(337) 577-4114,sandyforstaterep49@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,49th Representative District,1,David,Eaton,,109 Catamaron Dr.,Youngsville,LA,70592,No,(337) 739-3199,david@eatonforlouisiana49.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,49th Representative District,1,Jacob,Landry,,300 S. Broadway St.,Erath,LA,70533,No,(337) 258-8311,jlandry@jacoblandryforlouisiana.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,50th Representative District,1,Gloria R.,Robertson,,2106 Hebert St.,Franklin,LA,70538,No,(337) 471-1020,gloriawiggins.rep1@icloud.com,Democrat,Black,Female,8/10/23, 
+10/14/23,State Representative,50th Representative District,1,Vincent,St. Blanc,III,92 Main St.,Franklin,LA,70538,No,(337) 578-0802,vstblanc@bellsouth.net,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,51st Representative District,1,Beryl,Amedee,,200 Rhett Pl.,Gray,LA,70359,No,(985) 226-7085,berylamedee@gmail.com,Republican,White,Female,8/8/23,Unopposed 
+10/14/23,State Representative,52nd Representative District,1,Jerome 'Zee',Zeringue,,304 Amarillo Dr.,Houma,LA,70360,No,(985) 876-8823,jzeringue@legis.la.gov,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,53rd Representative District,1,Jessica,Domangue,,700 Central Ave.,Houma,LA,70364,No,(985) 688-8998,jdomangue@outlook.com,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,53rd Representative District,1,Dirk,Guidry,,5114 Bayouside Dr.,Chauvin,LA,70344,No,(985) 852-0038,dirk.guidry@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,53rd Representative District,1,Willis,Trosclair,Jr.,365 Daralyn Dr.,Houma,LA,70363,No,(985) 637-1491,watrosclair@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,54th Representative District,1,Joseph,Orgeron,,18903 E. Main St.,Galliano,LA,70354,No,(985) 805-5280,Joseph@Orgeron.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,55th Representative District,1,Bryan,Fontenot,,415 Dogwood Dr.,Thibodaux,LA,70301,Yes,(985) 447-0999,brycoland@gmail.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,56th Representative District,1,Beth,Billings,,18 Landsdowne Ln.,Destrehan,LA,70047,No,(504) 621-2742,bethbillings@gmail.com,Republican,White,Female,8/8/23,Unopposed 
+10/14/23,State Representative,57th Representative District,1,Shane,Bailey,,119 Sammy Ct.,Edgard,LA,70049,No,(504) 248-0809,shanebailey063@gmail.com,Democrat,Black,Male,8/9/23, 
+10/14/23,State Representative,57th Representative District,1,Albert 'Ali',Burl,III,P.O. Box 593,Garyville,LA,70051,No,(504) 628-0010,aliburl@yahoo.com,Democrat,Black,Male,8/10/23, 
+10/14/23,State Representative,57th Representative District,1,Rodney,Nicholas,,120 Oxbow Dr.,Laplace,LA,70068,No,(504) 818-8499,nikknicholas@gmail.com,Democrat,Black,Male,8/9/23, 
+10/14/23,State Representative,57th Representative District,1,Shondrell,Perrilloux,,1118 Main St.,LaPlace,LA,70068,No,(504) 232-0966,shondrellperrilloux@gmail.com,Republican,Other,Female,8/8/23, 
+10/14/23,State Representative,57th Representative District,1,Larry,Sorapuru,Jr.,502 Highway 18,Edgard,LA,70049,No,(504) 256-0436,lesora77@yahoo.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,57th Representative District,1,Michelle,Sweeney,,104 Oxbow Dr.,LaPlace,LA,70068,No,(504) 487-4006,,Democrat,White,Female,8/8/23, 
+10/14/23,State Representative,57th Representative District,1,Sylvia,Taylor,,P.O. Box 421,Reserve,LA,70084,No,(504) 495-8886,sydunn67@gmail.com,Democrat,Black,Female,8/8/23, 
+10/14/23,State Representative,57th Representative District,1,Russell 'Russ',Wise,,2131 Marion Dr.,LaPlace,LA,70068,No,(985) 652-7211,russ@russwise.com,No Party,White,Male,8/8/23, 
+10/14/23,State Representative,58th Representative District,1,Kendricks 'Ken',Brass,,2381 Armant St.,Vacherie,LA,70090,No,(225) 229-2492,kjbrass06@yahoo.com,Democrat,Black,Male,8/8/23,Unopposed 
+10/14/23,State Representative,59th Representative District,1,'Tony',Bacala,,37394 Hwy. 621,Prairieville,LA,70769,No,(225) 921-3852,tbacala2@yahoo.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,60th Representative District,1,Chad,Brown,,58445 Village Ct.,Plaquemine,LA,70764,No,(225) 978-9663,chad@chadbrownforrep.com,Democrat,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,61st Representative District,1,C. Denise,Marcelle,,9454 El Cajon Dr.,Baton Rouge,LA,70815,No,(225) 933-4217,denisemarcelle1@yahoo.com,Democrat,Black,Female,8/9/23,Unopposed 
+10/14/23,State Representative,61st Representative District,1,Robb 'Kirt',Sharper,,3467 Ontario St.,Baton Rouge,LA,70805,No,(225) 205-6680,robbsharper@gmail.com,Democrat,Black,Male,8/10/23,Withdrew 
+10/14/23,State Representative,62nd Representative District,1,Roy Daryl,Adams,,P.O. Box 1440,Jackson,LA,70748,No,(225) 719-2412,rdadams@legis.la.gov,Democrat,White,Male,8/9/23, 
+10/14/23,State Representative,62nd Representative District,1,Daniel,Banguel,,P.O. Box 73394,Baton Rouge,LA,70874,No,(225) 328-3218,info@danielbanguel.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,62nd Representative District,1,Dadrius,Lanus,,P.O. Box 1651,Baton Rouge,LA,70821,No,(225) 357-4137,dadrius.lanus.20@gmail.com,Democrat,Black,Male,8/10/23, 
+10/14/23,State Representative,63rd Representative District,1,Chauna,Banks,,P.O. Box 75141,Baton Rouge,LA,70874,No,(225) 505-3505,chaunaberry@bellsouth.net,Democrat,Black,Female,8/9/23, 
+10/14/23,State Representative,63rd Representative District,1,Barbara West,Carpenter,,1975 Harding Blvd.,Baton Rouge,LA,70807,No,(225) 771-5674,bcarpenter@legis.la.gov,Democrat,Black,Female,8/8/23, 
+10/14/23,State Representative,63rd Representative District,1,Christopher,Lemoine,,25520 Bickham Rd.,Jackson,LA,70748,No,(225) 938-6299,chris@chrislemoine.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,64th Representative District,1,Kellie,Alford,,34759 Clinton Allen Rd.,Denham Springs,LA,70706,No,(225) 241-5950,info@votekelliealford.com,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,64th Representative District,1,Kellee Hennessy,Dickerson,,35104 Perkins Rd.,Denham Springs,LA,70706,No,(225) 938-4637,kelleehd@bellsouth.net,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,64th Representative District,1,'Garry Frog',Talbert,,33460 Marion Dr.,Denham Springs,LA,70706,No,(225) 933-6456,gtalbert2@cox.net,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,65th Representative District,1,Brandon,Ivey,,9399 Villa Crossing Dr.,Greenwell Springs,LA,70739,No,(225) 936-6611,brandonivey1@gmail.com,Republican,White,Male,8/9/23, 
+10/14/23,State Representative,65th Representative District,1,Aaron,Moak,,5140 Fryers Ave.,Greenwell Springs,LA,70739,No,(225) 324-6008,aaron@aaronmoak.com,Republican,White,Male,8/9/23, 
+10/14/23,State Representative,65th Representative District,1,Jamie,Pope,,17022 Weyanoke Dr.,Zachary,LA,70791,No,(225) 939-2997,Jamie@PopeforLA.com,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,65th Representative District,1,Lauren,Ventrella,,22650 Greenwell Springs Rd.,Greenwell Springs,LA,70739,No,(225) 270-0351,lv@ventrellalawfirm.com,Republican,White,Female,8/10/23, 
+10/14/23,State Representative,65th Representative District,1,Stephen,Whitlow,,"18564 Magnolia Bridge Rd., Ste. 111",Baton Rouge,LA,70739,No,(225) 766-4317,steve@stevewhitlowforrep.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,66th Representative District,1,Monique,Appeaning,,17018 N. Lakeway Ave.,Baton Rouge,LA,70810,No,(225) 441-9567,moniqueappeaning@duck.com,Republican,Black,Female,8/8/23, 
+10/14/23,State Representative,66th Representative District,1,Emily,Chenevert,,"17732 Highland Rd., Ste. G, Box 237",Baton Rouge,LA,70810,No,(225) 806-5581,emily@voteemilychenevert.com,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,66th Representative District,1,Hollis 'Bubbe',Day,,3129 Veranda Green Ave.,Baton Rouge,LA,70810,No,(225) 366-9046,hollis@hollisforhouse.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,66th Representative District,1,'Richie',Edmonds,,15415 Manchac View Ct.,Baton Rouge,LA,70810,Yes,(225) 892-6000,richie@geauxvertical.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,66th Representative District,1,Drew,Maranto,,3978 Meadow Ridge Dr.,Baton Rouge,LA,70817,No,(225) 324-5181,drew@drewmaranto.com,Republican,White,Male,8/9/23, 
+10/14/23,State Representative,67th Representative District,1,Larry,Selders,,705 Myrtle Ave.,Baton Rouge,LA,70802,No,(225) 819-7309,larryseld@yahoo.com,Democrat,Black,Male,8/8/23,Unopposed 
+10/14/23,State Representative,68th Representative District,1,Laura White 'Laurie',Adams,,P.O. Box 84817,Baton Rouge,LA,70884,No,(225) 235-1554,lauriewhiteadams@gmail.com,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,68th Representative District,1,Belinda,Creel Davis,,4540 Hyacinth Ave.,Baton Rouge,LA,70808,No,(225) 202-2698,info@belindaforla.com,Democrat,,Female,8/10/23, 
+10/14/23,State Representative,68th Representative District,1,Robert 'Max',Grodner,Jr.,13460 Natchez Ct.,Baton Rouge,LA,70810,Yes,(225) 921-5855,maxgrodner@gmail.com,Democrat,White,Male,8/8/23, 
+10/14/23,State Representative,68th Representative District,1,Dixon,McMakin,,3029 Brandywine Dr.,Baton Rouge,LA,70808,No,(225) 252-0968,vote@dixonmcmakin.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,68th Representative District,1,Parry 'Matt',Thomas,,1826 Cedardale Ave.,Baton Rouge,LA,70808,No,(225) 485-6818,parrymattt@gmail.com,No Party,White,Male,8/8/23, 
+10/14/23,State Representative,69th Representative District,1,Paula,Davis,,2644 Fairway Dr.,Baton Rouge,LA,70809,No,(225) 938-3304,prpd03@gmail.com,Republican,White,Female,8/8/23,Unopposed 
+10/14/23,State Representative,70th Representative District,1,Brent,Campanella,,"7353 Highland Rd., Ste. B-5D",Baton Rouge,LA,70808,No,(555) 555-5555,campanellaofc@aol.com,Republican,White,Male,8/9/23, 
+10/14/23,State Representative,70th Representative District,1,Barbara Reich,Freiberg,,224 Amherst Ave.,Baton Rouge,LA,70808,No,(225) 936-1685,barbara.freiberg@gmail.com,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,70th Representative District,1,'Steve',Myers,,642 Ursuline Dr.,Baton Rouge,LA,70808,No,(225) 767-0640,stevemyers6@cox.net,Democrat,White,Male,8/10/23, 
+10/14/23,State Representative,70th Representative District,1,Jennie,Seals,,775 Burgin Ave.,Baton Rouge,LA,70808,No,(225) 993-3946,restjcs78@netzero.com,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,71st Representative District,1,Walley,Avara,,14318 Brown Rd.,Denham Springs,LA,70726,No,(225) 305-7309,walleyavaracampaign@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,71st Representative District,1,'Jim',Norred,,11093 Johnson Rd.,Denham Springs,LA,70726,No,(225) 933-8855,jimnorred@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,71st Representative District,1,Roger,Wilder,III,P.O. Box 1863,Denham Springs,LA,70727,No,(225) 667-2512,roger.wilder@cox.net,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,72nd Representative District,1,'Robby',Carter,,12883 Hwy. 37,Greensburg,LA,70441,No,(225) 222-4191,robbycarter@centurytel.net,Democrat,White,Male,8/8/23, 
+10/14/23,State Representative,72nd Representative District,1,Roderick 'Devon',Matthews,,3412 Pumping Station Rd.,Greensburg,LA,70441,No,(225) 304-4141,devon50@gmail.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,73rd Representative District,1,Michael,Chatellier,,39750 W. Sam Arnold Loop,Ponchatoula,LA,70454,No,(985) 401-1070,michael@mike4louisiana.com,Republican,White,Male,8/9/23, 
+10/14/23,State Representative,73rd Representative District,1,Kimberly Landry,Coates,,P.O. Box 2203,Ponchatoula,LA,70454,No,(985) 969-6268,kim@kimcoatesforla.com,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,73rd Representative District,1,Braville J.,LeBlanc,,132 Braville St.,Ponchatoula,LA,70454,No,(985) 507-9449,braville@braville4staterep.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,74th Representative District,1,Louis 'Lou',Dutel,,80703 Hwy. 1083,Bush,LA,70431,No,(985) 807-3855,lgdoriole@gmail.com,Republican,White,Male,8/10/23, 
+10/14/23,State Representative,74th Representative District,1,Peter,Egan,,190 Eagle Rd.,Covington,LA,70435,No,(504) 884-4452,pegan@eganhc.com,Republican,White,Male,8/9/23, 
+10/14/23,State Representative,74th Representative District,1,Buffie,Singletary,,P.O. Box 112,Pearl River,LA,70452,No,(985) 290-4978,buffiesingletary@gmail.com,Republican,White,Female,8/10/23, 
+10/14/23,State Representative,75th Representative District,1,Kelvin,May,,65321 Jones Creek Rd.,Angie,LA,70426,No,(985) 516-8191,kelvinmay1@yahoo.com,Democrat,Black,Male,8/9/23, 
+10/14/23,State Representative,75th Representative District,1,Jacob 'Perry',Talley,,59040 Hwy. 1074,Bogalusa,LA,70427,No,(985) 732-4755,bogalusatalley@yahoo.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,75th Representative District,1,John,Wyble,,127 Smith Rd.,Franklinton,LA,70438,No,(985) 320-9379,info@teamwyble.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,76th Representative District,1,Stephanie Hunter,Berault,,P.O. Box 3236,Slidell,LA,70459,No,(985) 768-8011,sberault@att.net,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,76th Representative District,1,Shawn,Jones,,1406 Briarwood St.,Slidell,LA,70458,No,(985) 707-6161,shawn110476@bellsouth.net,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,77th Representative District,1,Richard,Ducote,,415 W. 24th Ave.,Covington,LA,70433,No,(985) 898-2755,rducote@ducotelaw.com,Republican,White,Male,8/10/23,Withdrew 
+10/14/23,State Representative,77th Representative District,1,'Jim',Harlan,,305 E. 14th Ave.,Covington,LA,70433,No,(985) 635-4497,harlan4commonsense@gmail.com,Democrat,White,Male,8/10/23,Withdrew 
+10/14/23,State Representative,77th Representative District,1,Mark,Wright,,47 Patricia Dr.,Covington,LA,70433,No,(985) 590-1204,tchefuncte@outlook.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,78th Representative District,1,John 'Big John',Illg,Jr.,P.O. Box 23443,Harahan,LA,70123,No,(504) 469-6884,johnillgjr@aol.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,79th Representative District,1,'Debbie',Villio,,5440 David Dr.,Kenner,LA,70065,No,(504) 628-3535,deborahvillio@gmail.com,Republican,White,Female,8/8/23,Unopposed 
+10/14/23,State Representative,80th Representative District,1,'Polly',Thomas,,3230 Metairie Ct.,Metairie,LA,70002,No,(504) 833-7727,polly@pollythomas.com,Republican,White,Female,8/8/23,Unopposed 
+10/14/23,State Representative,81st Representative District,1,Jason,Amato,,1168 Marquette Dr.,Lutcher,LA,70071,No,(225) 268-6902,jasonpamato@yahoo.com,Republican,White,Male,8/9/23, 
+10/14/23,State Representative,81st Representative District,1,Jeffrey F. 'Jeff',Wiley,,40217 Dove Estates Ct.,Gonzales,LA,70737,No,(225) 715-6225,jwileysheriff@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,82nd Representative District,1,Laurie,Schlegel,,406 N. Labarre Rd.,Metairie,LA,70001,No,(504) 655-6887,schlegelstaterep@gmail.com,Republican,White,Female,8/8/23,Unopposed 
+10/14/23,State Representative,83rd Representative District,1,Kyle M.,Green,Jr.,P.O. Box 291,Marrero,LA,70073,No,(504) 349-8788,info@kylegreen83.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,83rd Representative District,1,Reginald,Jasmin,,921 Michael St.,Marrero,LA,70072,Yes,(504) 347-8126,sthelena12@yahoo.com,Republican,Black,Male,8/8/23, 
+10/14/23,State Representative,84th Representative District,1,Timothy,Kerner,,5091 Jean Lafitte Blvd.,Lafitte,LA,70067,Yes,(504) 338-0270,timkerner50@yahoo.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,85th Representative District,1,Andrew,Bennett,,"300 Coral Ave., Apt. D",Terrytown,LA,70056,No,(504) 583-4061,andrew.roy.bennett@gmail.com,No Party,White,Male,8/8/23, 
+10/14/23,State Representative,85th Representative District,1,Vincent E.,Cox,III,82 Mason St.,Gretna,LA,70053,No,(504) 982-6822,coxvincent859@yahoo.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,85th Representative District,1,Andrea,Manuel,,444 Fairfield Ave.,Gretna,LA,70056,No,(504) 533-9631,manuelandreaj2020@gmail.com,Democrat,Black,Female,8/9/23, 
+10/14/23,State Representative,86th Representative District,1,Nicholas 'Nicky',Muscarello,Jr.,709 W. Robert St.,Hammond,LA,70401,No,(985) 507-4555,njm@njmlawfirm.com,Republican,White,Male,8/8/23,Unopposed 
+10/14/23,State Representative,87th Representative District,1,Rodney,Lyons,Sr.,3813 Accacia Ln.,Harvey,LA,70058,No,(504) 348-8080,rl5lyons@gmail.com,Democrat,Black,Male,8/8/23, 
+10/14/23,State Representative,87th Representative District,1,Trent,Mackey,Jr.,1321 Burgess Dr.,Marrero,LA,70072,No,(504) 410-4352,tmackey2020@gmail.com,Democrat,Black,Male,8/10/23, 
+10/14/23,State Representative,88th Representative District,1,Kathy,Edmonston,,43510 N. Pinecrest St.,Gonzales,LA,70737,No,(225) 328-5832,kathyoedmonston@gmail.com,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,88th Representative District,1,Willie,Robinson,,1836 E. Afton Villa St.,Gonzales,LA,70737,No,(225) 288-0290,wrobinson@arofla.com,Republican,Black,Male,8/10/23, 
+10/14/23,State Representative,88th Representative District,1,Donald 'Don',Schexnaydre,,P.O. Box 116,Sorrento,LA,70778,No,(225) 276-9413,donschexnaydre@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,89th Representative District,1,Joshua 'Josh',Allison,,67 Oaklawn Dr.,Covington,LA,70433,No,(985) 302-5630,josh@allisonlawcorp.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,89th Representative District,1,Kim,Carver,,7 Carriage Ln.,Mandeville,LA,70471,No,(504) 450-9326,kim@votekimcarver.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,89th Representative District,1,Hugh,Cassidy,,102 Beau Chasse,Mandeville,LA,70471,No,(985) 788-9248,hugh@hughcassidyforlouisiana.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,89th Representative District,1,Scott,Nowicki,,P.O. Box 8924,Mandeville,LA,70470,No,(985) 232-6477,info@nowickiforla.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,90th Representative District,1,Heide,Alejandro-Smith,,36498 W. Powerline Rd.,Pearl River,LA,70452,No,(504) 214-4011,heidealejandro@yahoo.com,Libertarian,Asian,Female,8/8/23, 
+10/14/23,State Representative,90th Representative District,1,Mary,DuBuisson,,153 Moonraker Dr.,Slidell,LA,70458,No,(985) 645-3592,hse090@legis.la.gov,Republican,White,Female,8/9/23, 
+10/14/23,State Representative,90th Representative District,1,Brian,Glorioso,,254 Spinnaker Dr.,Slidell,LA,70458,No,(985) 643-7007,brian.glorioso@yahoo.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,91st Representative District,1,Edward 'Ed',Carlson,,92 Fountainbleau Dr.,New Orleans,LA,70125,No,(504) 494-9628,edcarlson62@gmail.com,Democrat,White,Male,8/8/23, 
+10/14/23,State Representative,91st Representative District,1,Mandie,Landry,,2633 Peniston St.,New Orleans,LA,70115,No,(504) 383-3836,vote@landry2019.com,Democrat,White,Female,8/8/23, 
+10/14/23,State Representative,91st Representative District,1,Madison,O'Malley,,P.O. Box 751205,New Orleans,LA,70175,Yes,(504) 252-6469,madison@madisonforla.com,Democrat,White,Female,8/8/23, 
+10/14/23,State Representative,92nd Representative District,1,Amanda,Eberts,,216 Avant Garde Cir.,Kenner,LA,70065,No,(504) 252-5557,aebertsforla@gmail.com,Republican,White,Female,8/8/23,Other/Disq 
+10/14/23,State Representative,92nd Representative District,1,Michael 'Mike',Sigur,,2201 Florida Ave.,Kenner,LA,70062,No,(504) 884-2352,mikesigur2014@gmail.com,Republican,White,Male,8/9/23, 
+10/14/23,State Representative,92nd Representative District,1,'Joe',Stagni,,1700 Taylor St.,Kenner,LA,70062,No,(504) 301-8396,joestagni@cox.net,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,93rd Representative District,1,Alonzo,Knox,,1622 Dumaine St.,New Orleans,LA,70116,No,(504) 264-1132,info@vote4knox.com,Democrat,Black,Male,8/8/23,Unopposed 
+10/14/23,State Representative,94th Representative District,1,Stephanie,Hilferty,,P.O. Box 24686,New Orleans,LA,70184,No,(504) 450-2318,stephaniehilferty@gmail.com,Republican,White,Female,8/8/23, 
+10/14/23,State Representative,94th Representative District,1,Charles E.,Marsala,,"141 Allen Toussaint Blvd., #126",New Orleans,LA,70124,Yes,(650) 333-8212,cemarsala@yahoo.com,Republican,,Male,8/10/23, 
+10/14/23,State Representative,95th Representative District,1,Aaron,Ellis,,28756 Gaylord Rd.,Walker,LA,70785,No,(225) 333-1361,aaronellisattorney@att.net,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,95th Representative District,1,Shane,Mack,,29863 Amvets Rd.,Albany,LA,70711,No,(985) 974-0909,s_mack@charter.net,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,96th Representative District,1,Marcus,Bryant,,P.O. Box 364,St. Martinville,LA,70582,No,(337) 504-4106,marcus@warriorjustice.com,Democrat,Black,Male,8/9/23,Unopposed 
+10/14/23,State Representative,97th Representative District,1,Matthew,Willard,,4701 St. Roch Ave.,New Orleans,LA,70122,No,(504) 283-4261,hse097@legis.la.gov,Democrat,Black,Male,8/8/23,Unopposed 
+10/14/23,State Representative,98th Representative District,1,Aimee,Adatto Freeman,,P.O. Box 850901,New Orleans,LA,70185,No,(504) 451-2503,aimee@voteaimee.com,Democrat,White,Female,8/8/23,Unopposed 
+10/14/23,State Representative,99th Representative District,1,Richard,Bell,Sr.,5320 Dauphine St.,New Orleans,LA,70117,No,(504) 909-6144,richard.bell@cox.net,Democrat,Black,Male,8/8/23,Other/Disq 
+10/14/23,State Representative,99th Representative District,1,Candace,Newell,,P. O. Box 7148,New Orleans,LA,70186,No,(504) 555-5555,info@candacenewell.com,Democrat,Black,Female,8/8/23,Unopposed 
+10/14/23,State Representative,100th Representative District,1,Jason,Hughes,,P.O. Box 872461,New Orleans,LA,70187,No,(504) 555-5555,info@electjasonhughes.com,Democrat,Black,Male,8/10/23,Unopposed 
+10/14/23,State Representative,101st Representative District,1,Vanessa,Caston LaFleur,,"4521 Jamestown Ave., Ste. 7",Baton Rouge,LA,70808,No,(225) 278-1225,lafleur4louisiana@gmail.com,Democrat,Black,Female,8/8/23,Unopposed 
+10/14/23,State Representative,102nd Representative District,1,Delisha,Boyd,,55 Fairway Oaks Dr.,New Orleans,LA,70131,No,(504) 605-5622,delisha@delishaboyd.com,Democrat,Black,Female,8/8/23,Unopposed 
+10/14/23,State Representative,103rd Representative District,1,'Mike',Bayham,,P.O. Box 1866,Chalmette,LA,70044,No,(504) 258-4467,mikebayham@gmail.com,Republican,White,Male,8/10/23, 
+10/14/23,State Representative,103rd Representative District,1,Armand 'AJ',Duvio,Jr.,3224 Rue Chenal,Meraux,LA,70075,No,(504) 874-4212,aj@aamechanicalinc.com,Democrat,White,Male,8/9/23,Withdrew 
+10/14/23,State Representative,103rd Representative District,1,Richard 'Richie',Lewis,,3408 Palmisano Blvd.,Chalmette,LA,70043,No,(504) 234-8002,richie1015@gmail.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,103rd Representative District,1,Stacy,Riley,Sr.,2016 Licciardi Ln.,Violet,LA,70092,No,(504) 388-6847,stacyrileysr@yahoo.com,Democrat,Black,Male,8/10/23, 
+10/14/23,State Representative,104th Representative District,1,'Jay',Gallé,,3433 Hwy. 190 Unit 310,Mandeville,LA,70471,No,(985) 272-6781,info@jaygalle.com,Republican,White,Male,8/8/23, 
+10/14/23,State Representative,104th Representative District,1,John,Raymond,,62187 Graci Ave.,Lacombe,LA,70445,No,(985) 768-9640,2johnraymond@gmail.com,Republican,White,Male,8/10/23, 
